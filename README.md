@@ -35,7 +35,7 @@ pip install gymnasium numpy matplotlib
 
 The learning process is visualized in the `black_jack_rl_graph.png` image, which shows the mean return over time as the agent learns to play Blackjack.
 
-![Learning Process](black_jack_rl_graph.png)
+![Learning Process](black_jack_rl_graph_v2.png)
 
 ## License
 
